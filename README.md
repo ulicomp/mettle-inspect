@@ -18,7 +18,7 @@
 > **Showcase repository.** Mettle Inspect is a commercial product I co-founded, so the source code is private. This page gives an overview of the product and my role.
 
 <p align="center">
-  <img src="assets/hero.jpg" alt="Mettle Inspect: mobile field capture and branded report export" width="900">
+  <img src="hero.jpg" alt="Mettle Inspect: mobile field capture and branded report export" width="900">
 </p>
 
 ## What it does
@@ -31,11 +31,11 @@ Inspectors walk a site, take photos, write notes, and then spend hours back at t
 - **Branded reports:** custom templates and Word/PDF export, ready to send to the client.
 
 <p align="center">
-  <img src="assets/workflow.jpg" alt="From site walk to client report" width="900">
+  <img src="workflow.jpg" alt="From site walk to client report" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/features.jpg" alt="Save hours per inspection, keep every finding organized, deliver reports faster" width="900">
+  <img src="features.jpg" alt="Save hours per inspection, keep every finding organized, deliver reports faster" width="900">
 </p>
 
 ## My role
