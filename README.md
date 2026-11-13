@@ -1,4 +1,6 @@
-<h1 align="center">Mettle Inspect</h1>
+<p align="center">
+  <img src="logo.png" alt="Mettle Inspect" width="300">
+</p>
 
 <p align="center">
   <b>From field inspection to client-ready report.</b><br>
